@@ -1,0 +1,2 @@
+geoip:ir,
+domain:digikala.com
