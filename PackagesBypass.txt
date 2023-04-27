@@ -17,3 +17,4 @@ com.sibche.aspardproject.app
 io.bitpin.app
 com.zarinpal.ewallets
 com.mtni.myirancell
+cab.snapp.passenger.play
